@@ -236,6 +236,33 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Fintech Lead Scoring API",
+      href: "https://github.com/miko-keng/spring-boot-fintech-api",
+      dates: "2026",
+      active: true,
+      description:
+        "Engineered a high-concurrency-ready backend using Spring Boot 3 and Java 17, implementing a strict 3-layer architecture (Controller-Service-Repository). Integrated Jakarta Validation for data integrity and configured a custom Spring Security filter chain to manage H2 in-memory database access and cross-origin resource sharing.",
+      technologies: [
+        "Java 17",
+        "Spring Boot 3",
+        "Spring Data JPA",
+        "Spring Security",
+        "H2 Database",
+        "Jakarta Validation",
+        "Maven",
+        "Lombok"
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/miko-keng/spring-boot-fintech-api",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "",
+    },
+    {
       title: "Full-Stack Task Tracker",
       href: "https://task-tracker-full-stack-0ljs.onrender.com",
       dates: "2026",

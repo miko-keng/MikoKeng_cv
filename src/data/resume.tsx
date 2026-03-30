@@ -2,9 +2,9 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Jessie Keng",
-  initials: "JK",
-  url: "https://github.com/jessiekeng",
+  name: "Miko Keng",
+  initials: "MK",
+  url: "https://github.com/miko-keng",
   location: "Selangor, Malaysia",
   locationLink: "https://www.google.com/maps/place/Selangor",
   description:
@@ -113,42 +113,42 @@ export const DATA = {
     },
   ],
   certificates: [
-  {
-    title: "Deep Dive Into Modern Web Development",
-    issuer: "University of Helsinki",
-    link: "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/02151d342347f33850e71d8fd6dd67b3"
-  },
-  {
-    title: "Google Cloud Certifications",
-    issuer: "Google",
-    link: "https://www.credly.com/users/zi-xing-keng/badges#credly"
-  },
-  {
-    title: "RAG Artificial Intelligence (AI Chatbot)",
-    issuer: "DeepLearning.AI",
-    link: "https://coursera.org/share/c2898db69c70fb6600be887742abca5e"
-  },
-  {
-    title: "Python for Data Science, AI & Development",
-    issuer: "IBM",
-    link: "https://coursera.org/share/5be60616b3b1436ceaeee65c0a328125"
-  },
-  {
-    title: "Programming for Everybody (Python)",
-    issuer: "University of Michigan",
-    link: "https://www.coursera.org/account/accomplishments/verify/P3MCYGSRZD6M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
-  },
-  {
-    title: "Foundations: Data, Data, Everywhere",
-    issuer: "Google",
-    link: "https://www.coursera.org/account/accomplishments/verify/29YKRNY8ZAEY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
-  },
-  {
-    title: "Foundations of User Experience (UX) Design",
-    issuer: "Google",
-    link: "https://www.coursera.org/account/accomplishments/verify/3ANGJHG4MGQJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
-  },
-],
+    {
+      title: "Deep Dive Into Modern Web Development",
+      issuer: "University of Helsinki",
+      link: "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/02151d342347f33850e71d8fd6dd67b3"
+    },
+    {
+      title: "Google Cloud Certifications",
+      issuer: "Google",
+      link: "https://www.credly.com/users/zi-xing-keng/badges#credly"
+    },
+    {
+      title: "RAG Artificial Intelligence (AI Chatbot)",
+      issuer: "DeepLearning.AI",
+      link: "https://coursera.org/share/c2898db69c70fb6600be887742abca5e"
+    },
+    {
+      title: "Python for Data Science, AI & Development",
+      issuer: "IBM",
+      link: "https://coursera.org/share/5be60616b3b1436ceaeee65c0a328125"
+    },
+    {
+      title: "Programming for Everybody (Python)",
+      issuer: "University of Michigan",
+      link: "https://www.coursera.org/account/accomplishments/verify/P3MCYGSRZD6M?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+    },
+    {
+      title: "Foundations: Data, Data, Everywhere",
+      issuer: "Google",
+      link: "https://www.coursera.org/account/accomplishments/verify/29YKRNY8ZAEY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+    },
+    {
+      title: "Foundations of User Experience (UX) Design",
+      issuer: "Google",
+      link: "https://www.coursera.org/account/accomplishments/verify/3ANGJHG4MGQJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+    },
+  ],
   projects: [
     {
       title: "BlogStack: Enterprise-Ready Backend",

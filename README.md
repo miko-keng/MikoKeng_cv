@@ -67,4 +67,4 @@ Predictive modeling project focused on business intelligence.
 * **Location:** Shah Alam, Selangor, Malaysia
 
 ---
-*Built with ❤️ by Jessie Keng. Deployed on Vercel.*
+*Built Miko Keng. Deployed on Vercel.*

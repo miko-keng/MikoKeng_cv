@@ -178,7 +178,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/blog.png",
       video: "",
     },
     {
@@ -208,7 +208,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/bank.png",
       video: "",
     },
     {
@@ -232,7 +232,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/mcp.png",
       video: "",
     },
     {
@@ -259,7 +259,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/fintech.png",
       video: "",
     },
     {
@@ -289,7 +289,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/tasktracker.png",
       video: "",
     },
     {
@@ -313,7 +313,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/house.png",
       video: "",
     },
     {
@@ -337,7 +337,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/churn.png",
       video: "",
     },
     {
@@ -355,7 +355,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/titanic.png",
       video: "",
     },
     {
@@ -373,7 +373,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/chatbot.png",
       video: "",
     },
     {
@@ -397,7 +397,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "", // You can add a screenshot of your n8n workflow here later
+      image: "/agent.png", // You can add a screenshot of your n8n workflow here later
       video: "",
     },
     {
@@ -414,7 +414,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />
         }
       ],
-      image: "",
+      image: "/movie.png",
       video: "",
     },
     {
@@ -432,7 +432,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
+      image: "/game.png",
       video: "",
     }
   ],

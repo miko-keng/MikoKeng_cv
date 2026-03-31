@@ -63,7 +63,7 @@ Predictive modeling project focused on business intelligence.
 ## ✉️ Contact & Connect
 * **Email:** zixingkeng@gmail.com
 * **LinkedIn:** [www.linkedin.com/in/jessie-keng]
-* **GitHub:** [github.com/jessiekeng](https://github.com/jessiekeng)
+* **GitHub:** [github.com/mikokeng](https://github.com/miko-keng)
 * **Location:** Shah Alam, Selangor, Malaysia
 
 ---

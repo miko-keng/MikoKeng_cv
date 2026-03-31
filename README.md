@@ -1,4 +1,4 @@
-# Jessie Keng | Portfolio & Digital CV
+# Miko Keng | Portfolio & Digital CV
 
 Professional portfolio showcasing my journey as a **Computer Science (Data Science)** student at Sunway University. This project highlights my expertise in building end-to-end Machine Learning pipelines, RAG-based AI systems, and scalable Full-Stack web applications.
 

@@ -8,9 +8,9 @@ export const DATA = {
   location: "Selangor, Malaysia",
   locationLink: "https://www.google.com/maps/place/Selangor",
   description:
-    "Data Science Student at Sunway University. Passionate about AI, Full-Stack Development, and Data Analytics.",
+    "Computer Science undergraduate seeking a Software Engineering or AI Internship to contribute to software and AI-driven systems. Interested in building reliable, production-ready solutions that solve real business problems.",
   summary:
-    "Second-year Data Science student at Sunway University with a 3.9/4.0 CGPA. I specialize in bridging the gap between Machine Learning and Software Engineering through hands-on experience in RAG-based AI systems, predictive analytics, and full-stack development.",
+    "Second-year Computer Science(Software Engineer) student at Sunway University with a 3.9/4.0 CGPA. I specialize in bridging the gap between Machine Learning and Software Engineering through hands-on experience in RAG-based AI systems, predictive analytics, and full-stack development.",
   avatarUrl: "/me.png",
   skills: [
     "Python (Pandas, Scikit-learn, Seaborn)",
@@ -236,26 +236,25 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Fintech Lead Scoring API",
-      href: "https://github.com/miko-keng/spring-boot-fintech-api",
+      title: "Unified Logistics Rate Middleware",
+      href: "https://github.com/miko-keng/rate-bridge-service",
       dates: "2026",
       active: true,
       description:
-        "Engineered a high-concurrency-ready backend using Spring Boot 3 and Java 17, implementing a strict 3-layer architecture (Controller-Service-Repository). Integrated Jakarta Validation for data integrity and configured a custom Spring Security filter chain to manage H2 in-memory database access and cross-origin resource sharing.",
+        "Developed a centralized middleware server to aggregate real-time shipping rates from multiple logistics providers (J&T Express, City-Link). Implemented the Strategy Pattern to decouple provider-specific logic, integrated SpringDoc OpenAPI for automated Swagger documentation, and containerized the service using a multi-stage Docker build for microservice compatibility.",
       technologies: [
         "Java 17",
         "Spring Boot 3",
-        "Spring Data JPA",
-        "Spring Security",
-        "H2 Database",
-        "Jakarta Validation",
+        "SpringDoc OpenAPI (Swagger)",
+        "Docker",
         "Maven",
-        "Lombok"
+        "Lombok",
+        "RESTful API"
       ],
       links: [
         {
           type: "Source",
-          href: "https://github.com/miko-keng/spring-boot-fintech-api",
+          href: "https://github.com/miko-keng/rate-bridge-service", // Update with your actual repo name
           icon: <Icons.github className="size-3" />,
         },
       ],
